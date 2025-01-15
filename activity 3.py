@@ -29,4 +29,4 @@ class Penguin(Bird):
 peggy = Penguin()
 peggy.whoisTHis()
 peggy.swim()
-peggy.run
+peggy.run()
