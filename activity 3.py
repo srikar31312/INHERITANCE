@@ -5,7 +5,7 @@ class Bird:
         print("Bird is ready")
 
     def whoisThis(self):
-        print("Bird")
+        print(" Bird")
 
     def swim(self):
         print("Swim faster")
